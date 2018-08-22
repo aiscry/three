@@ -1,7 +1,7 @@
 {
 	"zhprolist":[
 		{
-			"img":"./src/assets/images/view2.jpg",
+			"img":"static/view2.jpg",
 			"title":"海盐南北湖湖光山居度假酒店",
 			"des":"1晚+可加购南北湖成人票",
 			"price":"￥269",
@@ -9,7 +9,7 @@
 			"appraise":"4.2分"
 		},
 		{
-			"img":"./src/assets/images/view3.jpg",
+			"img":"static/view3.jpg",
 			"title":"西塘风景区",
 			"des":"【情侣推荐】和西塘一起沸腾起来",
 			"price":"￥780",
@@ -17,7 +17,7 @@
 			"appraise":"4.5分"
 		},
 		{
-			"img":"./src/assets/images/view5.jpg",
+			"img":"static/view5.jpg",
 			"title":"南京沃阁巴厘原墅温泉酒店",
 			"des":"立于半山之上的原生态酒店",
 			"price":"￥759",
@@ -25,7 +25,7 @@
 			"appraise":"4.5分"
 		},
 		{
-			"img":"./src/assets/images/view6.jpg",
+			"img":"static/view6.jpg",
 			"title":"溧阳涵田度假村酒店",
 			"des":"私密半岛上的湖景酒店",
 			"price":"￥1520",
