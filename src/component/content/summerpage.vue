@@ -53,7 +53,7 @@
 		mounted(){
 			this.$http.get('src/data/mspro.json').then(function(res){
 				console.log(res.body);
-				this.prolist=res.body.zhprolist;
+				this.prolist=res.body.sum;
 				if(this.prolist!=''){
 					this.bool=false;
 				}
